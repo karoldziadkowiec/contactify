@@ -1,7 +1,7 @@
 # contactify
 The project is a web application designed for storing and efficiently managing contacts. This application provides a user-friendly interface for adding, editing, and organizing contact information. Technologies used in the project:
 - Framework: React
-- Backend: Node.js employing REST API for communication
+- Backend: Node.js with Express employing REST API for communication
 - Frontend: Typescript, HTML, CSS
 - Database: MySQL
 
