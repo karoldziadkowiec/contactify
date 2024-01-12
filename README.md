@@ -1,22 +1,22 @@
 # Contactify
-Web application for storing and managing contacts. Technologies:
+The project is a web application designed for storing and efficiently managing contacts. This application provides a user-friendly interface for adding, editing, and organizing contact information. Technologies used in the project:
 - Framework: React
+- Backend: Node.js employing REST API for communication
 - Frontend: Typescript, HTML, CSS
-- Backend: Node.js
 - Database: MySQL
 
-Created by: Karol Dziadkowiec, Kamil Dziewa
+![Main page](https://github.com/karoldziadkowiec/contactify/blob/main/photos/1.png)
 
-![1](https://github.com/KISiM-AGH/projekt-zaliczeniowy-dziadkowiec-dziewa/blob/main/photos/1.png)
+Main page after sorting contacts by Colleagues:
+![Sorted main page](https://github.com/karoldziadkowiec/contactify/blob/main/photos/2.png)
 
-![2](https://github.com/KISiM-AGH/projekt-zaliczeniowy-dziadkowiec-dziewa/blob/main/photos/2.png)
+![Add contact page](https://github.com/karoldziadkowiec/contactify/blob/main/photos/3.png)
 
-![3](https://github.com/KISiM-AGH/projekt-zaliczeniowy-dziadkowiec-dziewa/blob/main/photos/3.png)
+![Add group page](https://github.com/karoldziadkowiec/contactify/blob/main/photos/4.png)
 
-![4](https://github.com/KISiM-AGH/projekt-zaliczeniowy-dziadkowiec-dziewa/blob/main/photos/4.png)
+![Edit contact page](https://github.com/karoldziadkowiec/contactify/blob/main/photos/5.png)
 
-![5](https://github.com/KISiM-AGH/projekt-zaliczeniowy-dziadkowiec-dziewa/blob/main/photos/5.png)
+![Main page2](https://github.com/karoldziadkowiec/contactify/blob/main/photos/6.png)
 
-![6](https://github.com/KISiM-AGH/projekt-zaliczeniowy-dziadkowiec-dziewa/blob/main/photos/6.png)
-
-![7](https://github.com/KISiM-AGH/projekt-zaliczeniowy-dziadkowiec-dziewa/blob/main/photos/7.png)
+Main page after deleting contact:
+![Main page3](https://github.com/karoldziadkowiec/contactify/blob/main/photos/7.png)
